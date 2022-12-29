@@ -1,4 +1,4 @@
-\documentclass{report}
+\documentclass[12pt]{report}
 
 \usepackage[french]{babel}
 
@@ -8,18 +8,58 @@
 \usepackage{amsmath}
 \usepackage{graphicx}
 \usepackage[colorlinks=true, allcolors=black]{hyperref}
+\usepackage{titlesec}
+\usepackage{lipsum}
 
-\title{Rapport de Projet\\Loi de commande turboréacteur }
-\author{RICHELET Arthur\\RENAYUD Maxime\\}
-\date{Décembre 2022}
+\titleformat{\chapter}[display]
+{\normalfont\bfseries}{}{0pt}{\huge}
+
+
+\title{{\Huge Rapport de Projet} \\Asservissement du turboréacteur DGEN 380 }
+\author{RICHELET Arthur
+\\RENAYUD Maxime
+\\FONTANELLE Dorian
+\and
+  DELMOTTE-DIAS Hélène
+\\PASQUET Xavier}
+
+
+
+\date{ 
+Décembre 2022 \\
+\vspace{2cm}
+\includegraphics[scale=0.4]{fig/evering_logo.jpg}}
 
 \begin{document}
 \maketitle
 
 \tableofcontents
 
-\section{Introduction}
-Introduction
+
+\newpage
+
+\chapter{Abstract}
+
+Le but de ce projet est de réaliser un asservissement
+du turboréacteur DGEN 380.
+Dans ce petit moteur de jet, la vitesse de rotation de la turbine 
+est liée à la quantité de carburant injecté dans la chambre de 
+combustion mais aussi des perturbations externes comme la température,
+la pression de l'air ambiant ou la vitesse de l'air entrant dans le compresseur.\newline
+ 
+L'objectif est de déterminer une loi de commande permettant d'atteindre un certain
+régime moteur en fonction de la position de la manette des gaz. L'outil principal
+utilisé pour la réalisation de ce projet est le logiciel {\it MATLAB/Simulink}.
+
+
+%% --
+\chapter{Introduction}
+\section{DGEN 380} %section d'introduction au DGEN 380
+\lipsum[1-2]
+
+\section{}
+
+\chapter{Méthodologie}
 
 
 \end{document}
