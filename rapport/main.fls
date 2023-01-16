@@ -803,6 +803,13 @@ INPUT .\fig\closed_loop_system_w-precomp.png
 INPUT .\fig\closed_loop_system_w-precomp.png
 INPUT .\fig\closed_loop_system_w-precomp.png
 INPUT .\fig\closed_loop_system_w-precomp.png
+INPUT .\fig\PI_response.png
+INPUT .\fig\PI_response.png
+INPUT fig\PI_response.png
+INPUT .\fig\PI_response.png
+INPUT .\fig\PI_response.png
+INPUT .\fig\PI_response.png
+INPUT .\fig\PI_response.png
 INPUT main.aux
 INPUT .\main.out
 INPUT .\main.out
@@ -834,6 +841,8 @@ INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\c
 INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi10.pfb
 INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi12.pfb
 INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi12.pfb
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi6.pfb
+INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi6.pfb
 INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi8.pfb
 INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi8.pfb
 INPUT C:\Users\admin\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
