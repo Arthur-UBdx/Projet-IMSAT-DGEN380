@@ -12,6 +12,7 @@
 \usepackage{lipsum}
 \usepackage{ragged2e}
 \usepackage{float}
+\usepackage{placeins}
 
 \titleformat{\chapter}[display]{\raggedright\normalfont\bfseries}{}{0pt}{\huge}
 % \titleformat{\section}[display]{\raggedright\normalfont\bfseries}{}{0pt}{\large}
@@ -254,14 +255,14 @@ déterminer l'ordre du système et les valeurs des constantes de ce dernier. On 
 coincider la courbe de la réponse fréquentielle du système avec celle de notre approximation
 afin de déterminer les constantes du système.
 
-\newpage
-
 \begin{figure}[!h]
   \centering
   \includegraphics[scale=0.7]{fig/bode_diagram.png}
   \caption{Diagramme de Bode du système et de l'approximation d'ordre 3}
   \vspace{0.5cm}
 \end{figure}
+
+\FloatBarrier
 
 On trouve alors que le système est d'ordre 3, de forme:
 

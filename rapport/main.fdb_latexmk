@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1673876173 "c:/Users/admin/Desktop/COURS-FAC/L2-S3/Projet/rapport/main.tex" "main.pdf" "main" 1673876176 0
-  "C:/Users/admin/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1673784384 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
+["pdflatex"] 1674383580 "c:/Users/admin/Desktop/COURS-FAC/L2-S3/Projet/rapport/main.tex" "main.pdf" "main" 1674383583 0
+  "C:/Users/admin/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1674383518 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/admin/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1200.pk" 1672314419 31952 a5aea5965c40a6c9253e7c791d1a5f7c ""
   "C:/Users/admin/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1440.pk" 1672312530 40136 dbf1de6a95e01731f81981fc6a198006 ""
   "C:/Users/admin/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1728.pk" 1672320848 49100 b8765d98be93213464756c4c04fc297a ""
@@ -111,12 +111,13 @@
   "C:/Users/admin/AppData/Local/Programs/MiKTeX/tex/latex/letltxmacro/letltxmacro.sty" 1575399536 5766 13a9e8766c47f30327caf893ece86ac8 ""
   "C:/Users/admin/AppData/Local/Programs/MiKTeX/tex/latex/lipsum/lipsum.ltd.tex" 1633250122 95525 6fd0552101a6b1f9b7a84b402ec435ba ""
   "C:/Users/admin/AppData/Local/Programs/MiKTeX/tex/latex/lipsum/lipsum.sty" 1633250122 14690 c2c754218a7108db7823a4839c1bc3cd ""
+  "C:/Users/admin/AppData/Local/Programs/MiKTeX/tex/latex/placeins/placeins.sty" 1113861600 4087 636308456f60d2b31cbf97867db5708d ""
   "C:/Users/admin/AppData/Local/Programs/MiKTeX/tex/latex/ragged2e/ragged2e.sty" 1668504789 9416 27e737e108efcc928c66ebcca3933f3f ""
   "C:/Users/admin/AppData/Local/Programs/MiKTeX/tex/latex/refcount/refcount.sty" 1576433952 9878 9e94e8fa600d95f9c7731bb21dfb67a4 ""
   "C:/Users/admin/AppData/Local/Programs/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1657797096 9714 ba3194bd52c8499b3f1e3eb91d409670 ""
   "C:/Users/admin/AppData/Local/Programs/MiKTeX/tex/latex/titlesec/titlesec.sty" 1625494067 48833 3b7b4cfab1a3d15596bfd3772a77ab65 ""
   "C:/Users/admin/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "c:/Users/admin/Desktop/COURS-FAC/L2-S3/Projet/rapport/main.tex" 1673876172 17892 a59a659b37083255e9c1aa7cf1f47f12 ""
+  "c:/Users/admin/Desktop/COURS-FAC/L2-S3/Projet/rapport/main.tex" 1674383579 17920 ca87a1825f8c88362fd73e2d5b178d1d ""
   "fig/DGEN380.png" 1416300192 336319 4b755f2221b03baa61c6881c93dde7df ""
   "fig/PI_response.png" 1673802717 82723 6aa8e5b0a4d93893a4427b2e5dd98cce ""
   "fig/bode_diagram.png" 1673789224 54356 bc1f810f28f3a9557d1186df6c9e9a51 ""
@@ -135,10 +136,10 @@
   "fig/step_response_h.png" 1673784674 34489 2c689190872e9f33c4052ceeddf1f41c ""
   "fig/step_response_v.png" 1673784684 42896 377a7d5c6f9cc760e5eb6bd32a84a1d1 ""
   "fig/système_simulink.png" 1673782562 380207 b369542f1fdfce7cc0c633c7d287f5aa ""
-  "main.aux" 1673876175 5457 a1d804ed077c3551e75c5c2c3659731e "pdflatex"
-  "main.out" 1673876175 2395 5cdf5952e25fc1b98be8a833a9781214 "pdflatex"
-  "main.tex" 1673876172 17892 a59a659b37083255e9c1aa7cf1f47f12 ""
-  "main.toc" 1673876175 1127 1253dcdd46a822bf48841ae613fe08cf "pdflatex"
+  "main.aux" 1674383583 5457 a1d804ed077c3551e75c5c2c3659731e "pdflatex"
+  "main.out" 1674383583 2395 5cdf5952e25fc1b98be8a833a9781214 "pdflatex"
+  "main.tex" 1674383579 17920 ca87a1825f8c88362fd73e2d5b178d1d ""
+  "main.toc" 1674383583 1127 1253dcdd46a822bf48841ae613fe08cf "pdflatex"
   (generated)
   "main.aux"
   "main.log"

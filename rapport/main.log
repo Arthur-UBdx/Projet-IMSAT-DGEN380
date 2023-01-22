@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.12) (preloaded format=pdflatex 2022.12.29)  16 JAN 2023 14:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.12) (preloaded format=pdflatex 2022.12.29)  22 JAN 2023 11:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -324,29 +324,31 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \float@box=\box55
 \@float@everytoks=\toks26
 \@floatcapt=\box56
+) (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/placeins\placeins.sty
+Package: placeins 2005/04/18  v 2.2
 ) (main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Info: Redefining \degres on input line 35.
-LaTeX Info: Redefining \up on input line 35.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Info: Redefining \degres on input line 36.
+LaTeX Info: Redefining \up on input line 36.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -407,7 +409,7 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 149.
  (C:\Users\admin\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx))
-Package hyperref Info: Link coloring ON on input line 35.
+Package hyperref Info: Link coloring ON on input line 36.
  (main.out) (main.out)
 \@outlinefile=\write3
 \openout3 = `main.out'.
@@ -415,7 +417,7 @@ Package hyperref Info: Link coloring ON on input line 35.
 <fig/evering_logo.jpg, id=51, 685.56125pt x 157.58875pt>
 File: fig/evering_logo.jpg Graphic file (type jpg)
 <use fig/evering_logo.jpg>
-Package pdftex.def Info: fig/evering_logo.jpg  used on input line 38.
+Package pdftex.def Info: fig/evering_logo.jpg  used on input line 39.
 (pdftex.def)             Requested size: 274.21964pt x 63.03436pt.
  [1
 
@@ -427,20 +429,20 @@ Package pdftex.def Info: fig/evering_logo.jpg  used on input line 38.
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.42 \newpage
+l.43 \newpage
               [1
 
 ]
 Chapitre 1.
 
-Underfull \hbox (badness 10000) in paragraph at lines 46--52
+Underfull \hbox (badness 10000) in paragraph at lines 47--53
 
  []
 
 <fig/DGEN380.png, id=79, 828.09375pt x 413.29407pt>
 File: fig/DGEN380.png Graphic file (type png)
 <use fig/DGEN380.png>
-Package pdftex.def Info: fig/DGEN380.png  used on input line 61.
+Package pdftex.def Info: fig/DGEN380.png  used on input line 62.
 (pdftex.def)             Requested size: 414.04587pt x 203.8013pt.
 [2
 
@@ -448,16 +450,16 @@ Package pdftex.def Info: fig/DGEN380.png  used on input line 61.
 pdfTeX warning (ext4): destination with the same identifier (name{figure.1.1}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.65 \chapter
+l.66 \chapter
              {Réalisation du projet} <./fig/DGEN380.png>]
 Chapitre 2.
 <fig/système_simulink.png, id=89, 1359.57938pt x 479.54156pt>
 File: fig/système_simulink.png Graphic file (type png)
 <use fig/système_simulink.png>
-Package pdftex.def Info: fig/système_simulink.png  used on input line 81.
+Package pdftex.def Info: fig/système_simulink.png  used on input line 82.
 (pdftex.def)             Requested size: 500.93108pt x 177.4276pt.
 
-Overfull \hbox (17.2342pt too wide) in paragraph at lines 81--82
+Overfull \hbox (17.2342pt too wide) in paragraph at lines 82--83
  [][] 
  []
 
@@ -467,202 +469,204 @@ Overfull \hbox (17.2342pt too wide) in paragraph at lines 81--82
 pdfTeX warning (ext4): destination with the same identifier (name{figure.2.1}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.86 \newpage
+l.87 \newpage
               <./fig/système_simulink.png>]
 <fig/step_response.png, id=96, 803.0pt x 603.25375pt>
 File: fig/step_response.png Graphic file (type png)
 <use fig/step_response.png>
-Package pdftex.def Info: fig/step_response.png  used on input line 98.
+Package pdftex.def Info: fig/step_response.png  used on input line 99.
 (pdftex.def)             Requested size: 281.05421pt x 211.14197pt.
 <fig/step_response_deltaT.png, id=97, 1080.035pt x 595.22375pt>
 File: fig/step_response_deltaT.png Graphic file (type png)
 <use fig/step_response_deltaT.png>
-Package pdftex.def Info: fig/step_response_deltaT.png  used on input line 114.
+Package pdftex.def Info: fig/step_response_deltaT.png  used on input line 115.
 (pdftex.def)             Requested size: 324.013pt x 178.5685pt.
  [4
 pdfTeX warning (ext4): destination with the same identifier (name{figure.2.2}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.121 
+l.122 
       
 pdfTeX warning (ext4): destination with the same identifier (name{figure.2.3}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.121 
+l.122 
        <./fig/step_response.png> <./fig/step_response_deltaT.png>]
 <fig/step_response_h.png, id=109, 523.9575pt x 413.545pt>
 File: fig/step_response_h.png Graphic file (type png)
 <use fig/step_response_h.png>
-Package pdftex.def Info: fig/step_response_h.png  used on input line 127.
+Package pdftex.def Info: fig/step_response_h.png  used on input line 128.
 (pdftex.def)             Requested size: 217.66211pt x 171.79465pt.
 <fig/step_response_v.png, id=110, 602.25pt x 460.72125pt>
 File: fig/step_response_v.png Graphic file (type png)
 <use fig/step_response_v.png>
-Package pdftex.def Info: fig/step_response_v.png  used on input line 128.
+Package pdftex.def Info: fig/step_response_v.png  used on input line 129.
 (pdftex.def)             Requested size: 217.66211pt x 166.5133pt.
 <fig/step_response_equilibre.png, id=111, 564.1075pt x 411.5375pt>
 File: fig/step_response_equilibre.png Graphic file (type png)
 <use fig/step_response_equilibre.png>
-Package pdftex.def Info: fig/step_response_equilibre.png  used on input line 142.
+Package pdftex.def Info: fig/step_response_equilibre.png  used on input line 143.
 (pdftex.def)             Requested size: 394.87254pt x 288.07428pt.
  [5
 pdfTeX warning (ext4): destination with the same identifier (name{figure.2.4}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.151 
+l.152 
       
 pdfTeX warning (ext4): destination with the same identifier (name{figure.2.5}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.151 
+l.152 
        <./fig/step_response_h.png> <./fig/step_response_v.png> <./fig/step_response_equilibre.png>]
 <fig/step_response_delta10-20.png, id=122, 516.93124pt x 413.545pt>
 File: fig/step_response_delta10-20.png Graphic file (type png)
 <use fig/step_response_delta10-20.png>
-Package pdftex.def Info: fig/step_response_delta10-20.png  used on input line 158.
+Package pdftex.def Info: fig/step_response_delta10-20.png  used on input line 159.
 (pdftex.def)             Requested size: 284.31306pt x 227.45044pt.
 <fig/step_response_delta10-20_scaled.png, id=123, 520.94624pt x 417.56pt>
 File: fig/step_response_delta10-20_scaled.png Graphic file (type png)
 <use fig/step_response_delta10-20_scaled.png>
-Package pdftex.def Info: fig/step_response_delta10-20_scaled.png  used on input line 161.
+Package pdftex.def Info: fig/step_response_delta10-20_scaled.png  used on input line 162.
 (pdftex.def)             Requested size: 286.52132pt x 229.65869pt.
  [6
 pdfTeX warning (ext4): destination with the same identifier (name{figure.2.6}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.173 \newpage
+l.174 \newpage
               
 pdfTeX warning (ext4): destination with the same identifier (name{figure.2.7}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.173 \newpage
+l.174 \newpage
                <./fig/step_response_delta10-20.png> <./fig/step_response_delta10-20_scaled.png>]
 <fig/step_response_delta1-2_scaled.png, id=133, 531.9875pt x 411.5375pt>
 File: fig/step_response_delta1-2_scaled.png Graphic file (type png)
 <use fig/step_response_delta1-2_scaled.png>
-Package pdftex.def Info: fig/step_response_delta1-2_scaled.png  used on input line 187.
+Package pdftex.def Info: fig/step_response_delta1-2_scaled.png  used on input line 188.
 (pdftex.def)             Requested size: 372.38872pt x 288.07428pt.
  [7
 pdfTeX warning (ext4): destination with the same identifier (name{figure.2.8}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.218 \newpage
+l.219 \newpage
                <./fig/step_response_delta1-2_scaled.png>]
 <fig/step_response_delta1_approximation.png, id=144, 552.0625pt x 462.72874pt>
 File: fig/step_response_delta1_approximation.png Graphic file (type png)
 <use fig/step_response_delta1_approximation.png>
-Package pdftex.def Info: fig/step_response_delta1_approximation.png  used on input line 223.
+Package pdftex.def Info: fig/step_response_delta1_approximation.png  used on input line 224.
 (pdftex.def)             Requested size: 386.4411pt x 323.90791pt.
 
 
-LaTeX Font Warning: Command \footnotesize invalid in math mode on input line 239.
+LaTeX Font Warning: Command \footnotesize invalid in math mode on input line 240.
 
-LaTeX Font Info:    Calculating math sizes for size <> on input line 250.
+LaTeX Font Info:    Calculating math sizes for size <> on input line 251.
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <> not available
-(Font)              size <5> substituted on input line 250.
+(Font)              size <5> substituted on input line 251.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <0.7> not available
-(Font)              size <5> substituted on input line 250.
+(Font)              size <5> substituted on input line 251.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <0.5> not available
-(Font)              size <5> substituted on input line 250.
+(Font)              size <5> substituted on input line 251.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <> not available
-(Font)              size <5> substituted on input line 250.
+(Font)              size <5> substituted on input line 251.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <0.7> not available
-(Font)              size <5> substituted on input line 250.
+(Font)              size <5> substituted on input line 251.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <0.5> not available
-(Font)              size <5> substituted on input line 250.
+(Font)              size <5> substituted on input line 251.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <> not available
-(Font)              size <5> substituted on input line 250.
+(Font)              size <5> substituted on input line 251.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <0.7> not available
-(Font)              size <5> substituted on input line 250.
+(Font)              size <5> substituted on input line 251.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <0.5> not available
-(Font)              size <5> substituted on input line 250.
+(Font)              size <5> substituted on input line 251.
+
+<fig/bode_diagram.png, id=145, 578.16pt x 445.665pt>
+File: fig/bode_diagram.png Graphic file (type png)
+<use fig/bode_diagram.png>
+Package pdftex.def Info: fig/bode_diagram.png  used on input line 260.
+(pdftex.def)             Requested size: 404.70924pt x 311.96336pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [8
 pdfTeX warning (ext4): destination with the same identifier (name{figure.2.9}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.257 \newpage
-               <./fig/step_response_delta1_approximation.png>]
-<fig/bode_diagram.png, id=158, 578.16pt x 445.665pt>
-File: fig/bode_diagram.png Graphic file (type png)
-<use fig/bode_diagram.png>
-Package pdftex.def Info: fig/bode_diagram.png  used on input line 261.
-(pdftex.def)             Requested size: 404.70924pt x 311.96336pt.
- [9
+l.265 \FloatBarrier
+                    <./fig/step_response_delta1_approximation.png>] [9
 pdfTeX warning (ext4): destination with the same identifier (name{figure.2.10}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.293 \newpage
+l.294 \newpage
                <./fig/bode_diagram.png>]
 <fig/open_loop_system.png, id=168, 1041.8925pt x 189.70876pt>
 File: fig/open_loop_system.png Graphic file (type png)
 <use fig/open_loop_system.png>
-Package pdftex.def Info: fig/open_loop_system.png  used on input line 311.
+Package pdftex.def Info: fig/open_loop_system.png  used on input line 312.
 (pdftex.def)             Requested size: 260.47249pt x 47.42706pt.
 <fig/open_loop_response.png, id=169, 367.3725pt x 294.34969pt>
 File: fig/open_loop_response.png Graphic file (type png)
 <use fig/open_loop_response.png>
-Package pdftex.def Info: fig/open_loop_response.png  used on input line 336.
+Package pdftex.def Info: fig/open_loop_response.png  used on input line 337.
 (pdftex.def)             Requested size: 257.15898pt x 206.04337pt.
  [10
 pdfTeX warning (ext4): destination with the same identifier (name{figure.2.11}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.355 
+l.356 
       
 pdfTeX warning (ext4): destination with the same identifier (name{figure.2.12}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.355 
+l.356 
        <./fig/open_loop_system.png> <./fig/open_loop_response.png>]
 <fig/closed_loop_system.png, id=181, 1373.13pt x 337.26pt>
 File: fig/closed_loop_system.png Graphic file (type png)
 <use fig/closed_loop_system.png>
-Package pdftex.def Info: fig/closed_loop_system.png  used on input line 359.
+Package pdftex.def Info: fig/closed_loop_system.png  used on input line 360.
 (pdftex.def)             Requested size: 343.28166pt x 84.31479pt.
 <fig/closed_loop_system_w-precomp.png, id=182, 1644.1425pt x 337.26pt>
 File: fig/closed_loop_system_w-precomp.png Graphic file (type png)
 <use fig/closed_loop_system_w-precomp.png>
-Package pdftex.def Info: fig/closed_loop_system_w-precomp.png  used on input line 366.
+Package pdftex.def Info: fig/closed_loop_system_w-precomp.png  used on input line 367.
 (pdftex.def)             Requested size: 411.03462pt x 84.31479pt.
  [11
 pdfTeX warning (ext4): destination with the same identifier (name{figure.2.13}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.403 \newpage
+l.404 \newpage
               
 pdfTeX warning (ext4): destination with the same identifier (name{figure.2.14}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.403 \newpage
+l.404 \newpage
                <./fig/closed_loop_system.png> <./fig/closed_loop_system_w-precomp.png>]
 <./fig/PI_response.png, id=193, 908.39375pt x 669.50125pt>
 File: ./fig/PI_response.png Graphic file (type png)
 <use ./fig/PI_response.png>
-Package pdftex.def Info: ./fig/PI_response.png  used on input line 458.
+Package pdftex.def Info: ./fig/PI_response.png  used on input line 459.
 (pdftex.def)             Requested size: 290.69194pt x 214.24477pt.
  [12
 pdfTeX warning (ext4): destination with the same identifier (name{figure.2.15}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.466 \newpage
+l.467 \newpage
                <./fig/PI_response.png>]
 Chapitre 3.
 [13
@@ -676,15 +680,15 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 5CDF5952E25FC1B98BE8A833A9781214;2395.
  ) 
 Here is how much of TeX's memory you used:
- 12469 strings out of 476406
- 205074 string characters out of 2789566
+ 12500 strings out of 476406
+ 205917 string characters out of 2789566
  1860787 words of memory out of 3000000
- 32579 multiletter control sequences out of 15000+600000
+ 32606 multiletter control sequences out of 15000+600000
  527037 words of font info for 65 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  72i,12n,77p,377b,469s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\admin\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\admin\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\admin\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1728.pk> <C:\Users\admin\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\eccc1200.pk> <C:\Users\admin\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1200.pk> <C:\Users\admin\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\admin\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\admin\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk> <C:\Users\admin\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\admin\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm2074.pk> <C:\Users\admin\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm2488.pk><C:/Users/admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on main.pdf (14 pages, 1278036 bytes).
+Output written on main.pdf (14 pages, 1278033 bytes).
 PDF statistics:
  617 PDF objects out of 1000 (max. 8388607)
  55 named destinations out of 1000 (max. 500000)
